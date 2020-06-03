@@ -2,9 +2,11 @@
 
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](http://errorsexceptions.blogspot.com/)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://htmlpreview.github.io/?https://github.com/jagnyadatta/kapo/blob/master/html%20templates/previewDemo.html)
 
 This is a basic ecommerce application having following features
+
+[Preview](https://htmlpreview.github.io/?https://github.com/jagnyadatta/kapo/blob/master/html%20templates/previewDemo.html)
 
   - Home page
   - product display
