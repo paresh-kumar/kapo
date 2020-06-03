@@ -75,5 +75,5 @@ MIT
 
 **Free Software, Hell Yeah!**
 
-   [Ashutosh]: <https://ashutoshdang.github.io/>
+   [Ashutosh]: (https://ashutoshdang.github.io/)
 
