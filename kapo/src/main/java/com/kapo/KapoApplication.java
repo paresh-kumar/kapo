@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.kapo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
@@ -8,11 +8,13 @@ import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
 @EnableAutoConfiguration(exclude={DataSourceAutoConfiguration.class})
-@ComponentScan(basePackages= {"com.kapo.controller"})
+@ComponentScan(basePackages= {"com.kapo"})
 public class KapoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(KapoApplication.class, args);
 	}
+	
+
 
 }
